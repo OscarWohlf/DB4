@@ -1,0 +1,2 @@
+def measureTemp():
+    print("test")
